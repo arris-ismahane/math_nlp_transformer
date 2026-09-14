@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 .venv/
 data/
+
+
+math_nlp/__pycache__/
